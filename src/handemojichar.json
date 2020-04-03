@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/Raised_Hand_Emoji_large.png?v=1571606063",
+        "sign": " hand"
+    },
+
+    {
+        "id": 2,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/Waving_Hand_Sign_Emoji_large.png?v=1571606038",
+        "sign": " hand"
+    },
+    
+    {
+        "id": 3,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/Up_Pointing_Hand_Emoji_large.png?v=1571606062",
+        "sign": " hand"
+    },
+
+    {
+        "id": 4,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/White_Up_Pointing_Backhand_Index_Emoji_large.png?v=1571606067",
+        "sign": " hand"
+    },
+
+    {
+        "id": 5,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/Victory_Hand_Emoji_large.png?v=1571606062",
+        "sign": " hand"
+    },
+    
+    {
+        "id": 6,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/Ok_Hand_Sign_Emoji_large.png?v=1571606063",
+        "sign": " hand"
+    },
+
+    {
+        "id": 7,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/Raised_Fist_Emoji_large.png?v=1571606063",
+        "sign": " hand"
+    },
+
+    {
+        "id": 8,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/Fist_Hand_Emoji_large.png?v=1571606063",
+        "sign": " hand"
+    },
+
+    {
+        "id": 9,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/Thumbs_Up_Hand_Sign_Emoji_large.png?v=1571606063",
+        "sign": " hand"
+    },
+
+    {
+        "id": 10,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/White_Thumbs_Down_Sign_Emoji_large.png?v=1571606067",
+        "sign": " hand"
+    },
+
+    {
+        "id": 11,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/Nose_Emoji_large.png?v=1571606063",
+        "sign": " hand"
+    },
+
+    {
+        "id": 12,
+        "clicked" : false,
+        "type": " emoji",
+        "image": "https://cdn.shopify.com/s/files/1/1061/1924/products/White_Open_Hands_Sign_Emoji_large.png?v=1571606067",
+        "sign": " hand"
+    }
+
+]
